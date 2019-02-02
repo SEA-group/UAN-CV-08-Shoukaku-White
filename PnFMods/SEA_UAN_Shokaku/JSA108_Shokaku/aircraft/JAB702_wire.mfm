@@ -1,0 +1,14 @@
+<JAB702_wire.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_wire.fx	</fx>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_UAN_Shokaku/JSA108_Shokaku/aircraft/JAB702_mg.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_UAN_Shokaku/JSA108_Shokaku/aircraft/JAB702_a.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_UAN_Shokaku/JSA108_Shokaku/aircraft/JAB702_n.dds	</Texture>
+	</property>
+</JAB702_wire.mfm>

@@ -1,0 +1,38 @@
+<JPB003_Type3_No25_Mk4_Mod1_Special_lod1.visual>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	Bomb	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Bomb	</node>
+		<geometry>
+			<vertices>	Bomb_lod1Shape.vertices	</vertices>
+			<primitive>	Bomb_lod1Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_NODAMAGE_PBS_Projectile	</identifier>
+					<mfm>	PnFMods/SEA_UAN_Shokaku/JSA108_Shokaku/projectile/JPR001_Type3_No1_Mk28.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<boundingBox>
+		<min>	-0.010005 -0.020660 -0.087061	</min>
+		<max>	0.010005 0.001290 0.039134	</max>
+	</boundingBox>
+</JPB003_Type3_No25_Mk4_Mod1_Special_lod1.visual>

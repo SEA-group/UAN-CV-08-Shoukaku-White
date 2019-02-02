@@ -1,0 +1,14 @@
+<JD025_Director_Type_94_Mod1_wire.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_wire.fx	</fx>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_UAN_Shokaku/JSA108_Shokaku/director/JD025_Director_Type_94_Mod1_mg.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_UAN_Shokaku/JSA108_Shokaku/director/JD025_Director_Type_94_Mod1_a.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_UAN_Shokaku/JSA108_Shokaku/director/default_n.dds	</Texture>
+	</property>
+</JD025_Director_Type_94_Mod1_wire.mfm>

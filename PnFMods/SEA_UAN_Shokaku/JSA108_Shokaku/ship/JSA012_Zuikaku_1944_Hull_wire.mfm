@@ -1,0 +1,14 @@
+<JSA012_Zuikaku_1944_Hull_wire.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_wire.fx	</fx>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_UAN_Shokaku/JSA108_Shokaku/ship/JSA012_Zuikaku_1944_Hull_a.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_UAN_Shokaku/JSA108_Shokaku/ship/JSA012_Zuikaku_1944_Hull_n.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_UAN_Shokaku/JSA108_Shokaku/ship/JSA012_Zuikaku_1944_Hull_mg.dds	</Texture>
+	</property>
+</JSA012_Zuikaku_1944_Hull_wire.mfm>

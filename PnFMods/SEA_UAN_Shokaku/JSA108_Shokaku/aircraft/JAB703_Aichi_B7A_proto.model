@@ -1,0 +1,36 @@
+<JAB703_Aichi_B7A_proto.model>
+	<action>
+		<name>	bombbay_on	</name>
+		<animation>	bombbay_on	</animation>
+	</action>
+	<action>
+		<name>	bombbay_off	</name>
+		<animation>	bombbay_off	</animation>
+	</action>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_UAN_Shokaku/JSA108_Shokaku/aircraft/JAB703_Aichi_B7A_proto_lod1	</parent>
+	<extent>	2.0000	</extent>
+	<castsShadow>	true	</castsShadow>
+	<materialNames />
+	<animation>
+		<name>	bombbay_on	</name>
+		<frameRate>	30.0000	</frameRate>
+		<nodes>	content/animation/model/NM001_JAB703_Aichi_B7A_bombbay	</nodes>
+		<alpha>
+			<propeller_mod>	0.0000	</propeller_mod>
+		</alpha>
+		<lastFrame>	30	</lastFrame>
+	</animation>
+	<animation>
+		<name>	bombbay_off	</name>
+		<frameRate>	30.0000	</frameRate>
+		<nodes>	content/animation/model/NM001_JAB703_Aichi_B7A_bombbay	</nodes>
+		<alpha>
+			<propeller_mod>	0.0000	</propeller_mod>
+		</alpha>
+		<firstFrame>	30	</firstFrame>
+		<lastFrame>	60	</lastFrame>
+	</animation>
+	<nodefullVisual>	PnFMods/SEA_UAN_Shokaku/JSA108_Shokaku/aircraft/JAB703_Aichi_B7A_proto	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JAB703_Aichi_B7A_proto.model>

@@ -1,0 +1,17 @@
+<JGS003_127mm40_Type89_Mod_A_dead.mfm>
+	<fx>	shaders/std_effects/PBS_ship_emissive.fx	</fx>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_UAN_Shokaku/JSA108_Shokaku/gun/JGS003_127mm40_Type89_Mod_A_dead_n.dds	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_UAN_Shokaku/JSA108_Shokaku/gun/default_ao.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_UAN_Shokaku/JSA108_Shokaku/gun/JGS003_127mm40_Type89_Mod_A_dead_mg.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_UAN_Shokaku/JSA108_Shokaku/gun/JGS003_127mm40_Type89_Mod_A_dead_a.dds	</Texture>
+	</property>
+</JGS003_127mm40_Type89_Mod_A_dead.mfm>
