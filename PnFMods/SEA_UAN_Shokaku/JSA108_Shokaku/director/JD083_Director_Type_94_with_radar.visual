@@ -65,7 +65,7 @@
 			<primitive>	DirectorShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Director	</identifier>
+					<identifier>	SHIPMAT_PBS_DirectorX	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Shokaku/JSA108_Shokaku/director/JD025_Director_Type_94_Mod1.mfm	</mfm>
 				</material>
 			</primitiveGroup>

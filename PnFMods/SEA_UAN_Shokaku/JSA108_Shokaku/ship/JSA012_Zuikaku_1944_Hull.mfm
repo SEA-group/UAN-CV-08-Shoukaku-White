@@ -5,7 +5,7 @@
 	<property>	emissivePower
 		<Float>	2.20000	</Float>
 	</property>
-		<property>	alphaTestEnable
+	<property>	alphaTestEnable
 		<Bool>	true	</Bool>
 	</property>
 	<property>	alphaReference
