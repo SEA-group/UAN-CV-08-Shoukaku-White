@@ -8,7 +8,7 @@
 		<animation>	bombbay_on	</animation>
 	</action>
 	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_UAN_Shokaku/JSA108_Shokaku/aircraft/JAD707_D4Y3_proto_lod1	</parent>
+	<parent>	PnFMods/SEA_UAN_Shokaku/JSA108_Shokaku/aircraft/lods/JAD707_D4Y3_proto_lod1	</parent>
 	<extent>	2.0000	</extent>
 	<castsShadow>	true	</castsShadow>
 	<materialNames />

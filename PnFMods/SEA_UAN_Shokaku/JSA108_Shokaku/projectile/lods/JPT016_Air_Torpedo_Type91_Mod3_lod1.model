@@ -1,0 +1,8 @@
+<JPT016_Air_Torpedo_Type91_Mod3_lod1.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_UAN_Shokaku/JSA108_Shokaku/projectile/lods/JPT016_Air_Torpedo_Type91_Mod3_lod2	</parent>
+	<nodefullVisual>	PnFMods/SEA_UAN_Shokaku/JSA108_Shokaku/projectile/lods/JPT016_Air_Torpedo_Type91_Mod3_lod1	</nodefullVisual>
+	<extent>	6.0000	</extent>
+	<castsShadow>	false	</castsShadow>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JPT016_Air_Torpedo_Type91_Mod3_lod1.model>

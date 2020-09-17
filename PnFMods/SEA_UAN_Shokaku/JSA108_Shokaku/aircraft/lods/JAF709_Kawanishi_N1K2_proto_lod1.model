@@ -1,0 +1,8 @@
+<JAF709_Kawanishi_N1K2_proto_lod1.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_UAN_Shokaku/JSA108_Shokaku/aircraft/lods/JAF709_Kawanishi_N1K2_proto_lod2	</parent>
+	<extent>	8.0000	</extent>
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	PnFMods/SEA_UAN_Shokaku/JSA108_Shokaku/aircraft/lods/JAF709_Kawanishi_N1K2_proto_lod1	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JAF709_Kawanishi_N1K2_proto_lod1.model>

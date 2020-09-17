@@ -1,0 +1,8 @@
+<JAB702_Nakajima_B6N_proto_lod2.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_UAN_Shokaku/JSA108_Shokaku/aircraft/lods/JAB702_Nakajima_B6N_proto_lod3	</parent>
+	<extent>	25.0000	</extent>
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	PnFMods/SEA_UAN_Shokaku/JSA108_Shokaku/aircraft/lods/JAB702_Nakajima_B6N_proto_lod2	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JAB702_Nakajima_B6N_proto_lod2.model>

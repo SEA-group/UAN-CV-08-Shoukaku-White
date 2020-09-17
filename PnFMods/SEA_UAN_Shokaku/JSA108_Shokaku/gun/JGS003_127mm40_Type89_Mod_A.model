@@ -1,7 +1,7 @@
 <JGS003_127mm40_Type89_Mod_A.model>
 	<castsShadow>	true	</castsShadow>
 	<extent>	6.000000	</extent>
-	<parent>	PnFMods/SEA_UAN_Shokaku/JSA108_Shokaku/gun/JGS003_127mm40_Type89_Mod_A_lod1	</parent>
+	<parent>	PnFMods/SEA_UAN_Shokaku/JSA108_Shokaku/gun/lods/JGS003_127mm40_Type89_Mod_A_lod1	</parent>
 	<materialNames />
 	<visibilityBox>
 		<min>	-0.220888 -0.000000 -0.220887	</min>
