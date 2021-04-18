@@ -29,7 +29,7 @@
 			<primitive>	Turret_dead_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunDeadX	</identifier>
+					<identifier>	SHIPMATX_PBS_GunDeadX	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Shokaku/JSA108_Shokaku/gun/JGS003_127mm40_Type89_Mod_A_dead.mfm	</mfm>
 				</material>
 			</primitiveGroup>

@@ -29,7 +29,7 @@
 			<primitive>	Full_lod4Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Shokaku/JSA108_Shokaku/ship/JSA012_Zuikaku_1944_Hull.mfm	</mfm>
 				</material>
 			</primitiveGroup>

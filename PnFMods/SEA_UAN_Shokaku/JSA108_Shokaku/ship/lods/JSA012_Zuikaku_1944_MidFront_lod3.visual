@@ -92,7 +92,7 @@
 			<primitive>	MidFront_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Shokaku/JSA108_Shokaku/ship/JSA012_Zuikaku_1944_Hull.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -106,7 +106,7 @@
 			<primitive>	MidFront_crack_Bow_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Shokaku/JSA108_Shokaku/ship/JSA012_Zuikaku_1944_Hull.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -120,7 +120,7 @@
 			<primitive>	MidFront_crack_Bow_in_lodShape3.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Crack	</identifier>
+					<identifier>	SHIPMATX_PBS_Crack	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Shokaku/JSA108_Shokaku/ship/C003_Razlom_old.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -134,7 +134,7 @@
 			<primitive>	MidFront_crack_MidBack_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Shokaku/JSA108_Shokaku/ship/JSA012_Zuikaku_1944_Hull.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -148,7 +148,7 @@
 			<primitive>	MidFront_crack_MidBack_in_lodShape3.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Crack	</identifier>
+					<identifier>	SHIPMATX_PBS_Crack	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Shokaku/JSA108_Shokaku/ship/C003_Razlom_old.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -162,7 +162,7 @@
 			<primitive>	MidFront_DeckHouse_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_DeckHouseX	</identifier>
+					<identifier>	SHIPMATX_PBS_DeckHouseX	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Shokaku/JSA108_Shokaku/ship/JSA012_Zuikaku_1944_Deck_House.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -176,7 +176,7 @@
 			<primitive>	MidFront_patch_MidBack_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Shokaku/JSA108_Shokaku/ship/JSA012_Zuikaku_1944_Hull.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -190,7 +190,7 @@
 			<primitive>	MidFront_wire_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPWIRE_PBS_Hull	</identifier>
+					<identifier>	SHIPWIREX_PBS_Hull	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Shokaku/JSA108_Shokaku/ship/JSA012_Zuikaku_1944_Hull_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>

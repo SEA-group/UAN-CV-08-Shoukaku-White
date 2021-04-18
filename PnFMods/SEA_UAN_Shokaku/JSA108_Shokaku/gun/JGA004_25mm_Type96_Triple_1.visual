@@ -56,7 +56,7 @@
 			<primitive>	TurretShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunX	</identifier>
+					<identifier>	SHIPMATX_PBS_GunX	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Shokaku/JSA108_Shokaku/gun/JGA004_25mm_Type96_Triple_1.mfm	</mfm>
 				</material>
 			</primitiveGroup>

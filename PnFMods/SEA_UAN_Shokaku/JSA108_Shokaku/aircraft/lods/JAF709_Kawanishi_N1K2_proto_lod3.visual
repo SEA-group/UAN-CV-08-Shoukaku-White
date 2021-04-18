@@ -452,7 +452,7 @@
 			<primitive>	hull_lodShape3.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull_skinned	</identifier>
+					<identifier>	SHIPMATX_PBS_Hull_skinned	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Shokaku/JSA108_Shokaku/aircraft/JAF709_Kawanishi_N1K2_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -466,7 +466,7 @@
 			<primitive>	chassis_on_BlendBone_lodShape3.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Other	</identifier>
+					<identifier>	SHIPMATX_PBS_Other	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Shokaku/JSA108_Shokaku/aircraft/JAF709_Kawanishi_N1K2.mfm	</mfm>
 				</material>
 			</primitiveGroup>
