@@ -344,24 +344,6 @@
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_JTA0260	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.034798 0.972238 -0.786067 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_JTA0261	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	1.084927 0.901246 -1.422287 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
 				<identifier>	MP_JM080_Elevating_Mast_L	</identifier>
 				<transform>
 					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
@@ -371,12 +353,111 @@
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_JTA0262	</identifier>
+				<identifier>	MP_JM099_Signal_Lamp_1	</identifier>
 				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	-0.166415 0.839655 -0.186983 1.000000	</row3>
+					<row0>	0.0000 0.0000 -1.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	1.0000 0.0000 0.0000 0.0000	</row2>
+					<row3>	1.0765 0.9716 1.2542 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM099_Signal_Lamp_1_INDEX_1	</identifier>
+				<transform>
+					<row0>	0.0000 0.0000 1.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	-1.0000 0.0000 0.0000 0.0000	</row2>
+					<row3>	-1.0121 0.9729 -1.7662 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM099_Signal_Lamp_1_INDEX_2	</identifier>
+				<transform>
+					<row0>	0.0000 0.0000 -1.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	1.0000 0.0000 0.0000 0.0000	</row2>
+					<row3>	1.0765 0.9716 -1.7662 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM099_Signal_Lamp_1_INDEX_3	</identifier>
+				<transform>
+					<row0>	0.0000 0.0000 -1.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	1.0000 0.0000 0.0000 0.0000	</row2>
+					<row3>	1.0765 0.9716 -2.5978 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM099_Signal_Lamp_1_INDEX_4	</identifier>
+				<transform>
+					<row0>	0.0000 0.0000 -1.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	1.0000 0.0000 0.0000 0.0000	</row2>
+					<row3>	1.0765 0.9716 -0.9133 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM099_Signal_Lamp_1_INDEX_5	</identifier>
+				<transform>
+					<row0>	0.0000 0.0000 -1.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	1.0000 0.0000 0.0000 0.0000	</row2>
+					<row3>	1.0765 0.9716 0.1642 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM099_Signal_Lamp_1_INDEX_6	</identifier>
+				<transform>
+					<row0>	0.0000 0.0000 1.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	-1.0000 0.0000 0.0000 0.0000	</row2>
+					<row3>	-1.0212 0.9729 -2.7408 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM099_Signal_Lamp_1_INDEX_7	</identifier>
+				<transform>
+					<row0>	0.0000 0.0000 1.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	-1.0000 0.0000 0.0000 0.0000	</row2>
+					<row3>	-1.0007 0.9729 0.1642 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM099_Signal_Lamp_1_INDEX_8	</identifier>
+				<transform>
+					<row0>	0.0000 0.0000 1.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	-1.0000 0.0000 0.0000 0.0000	</row2>
+					<row3>	-1.0072 0.9729 -0.9133 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM099_Signal_Lamp_1_INDEX_9	</identifier>
+				<transform>
+					<row0>	0.0000 0.0000 1.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	-1.0000 0.0000 0.0000 0.0000	</row2>
+					<row3>	-0.9935 0.9729 1.2542 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM100_Bench	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	1.0849 0.9012 -1.0049 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM100_Bench_INDEX_1	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	1.0849 0.9012 -1.8397 1.0000	</row3>
 				</transform>
 			</node>
 			<node>

@@ -250,48 +250,84 @@
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_CTA0093	</identifier>
+				<identifier>	MP_CM009_Life_Buoy_2	</identifier>
 				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000000 0.463587 8.128717 1.000000	</row3>
+					<row0>	-0.8378 0.0000 0.5460 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	-0.5460 0.0000 -0.8378 0.0000	</row2>
+					<row3>	0.6183 0.7790 6.4812 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_JTA0257	</identifier>
+				<identifier>	MP_CM009_Life_Buoy_2_INDEX_1	</identifier>
 				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	-0.001584 0.700401 8.462453 1.000000	</row3>
+					<row0>	-0.8274 0.0000 -0.5617 0.0000	</row0>
+					<row1>	0.0014 1.0000 -0.0020 0.0000	</row1>
+					<row2>	0.5617 -0.0024 -0.8274 0.0000	</row2>
+					<row3>	-0.5714 0.7797 6.4882 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_CTA0092	</identifier>
+				<identifier>	MP_CM086_Anchor_top	</identifier>
 				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000000 0.463587 8.128717 1.000000	</row3>
+					<row0>	-1.1944 -1.1955 -1.0696 0.0000	</row0>
+					<row1>	-0.3038 1.4780 -1.3127 0.0000	</row1>
+					<row2>	1.5751 -0.6214 -1.0643 0.0000	</row2>
+					<row3>	0.2696 0.4636 8.1287 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_JTA0254	</identifier>
+				<identifier>	MP_CM086_Anchor_top_INDEX_1	</identifier>
 				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	-0.001226 0.846581 6.739941 1.000000	</row3>
+					<row0>	-1.1944 1.1955 1.0696 0.0000	</row0>
+					<row1>	0.3038 1.4780 -1.3127 0.0000	</row1>
+					<row2>	-1.5751 -0.6214 -1.0643 0.0000	</row2>
+					<row3>	-0.2696 0.4636 8.1287 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_JTA0255	</identifier>
+				<identifier>	MP_CM087_Anchor_down	</identifier>
+				<transform>
+					<row0>	-1.1944 1.1955 1.0696 0.0000	</row0>
+					<row1>	-0.6845 0.8263 -1.6878 0.0000	</row1>
+					<row2>	-1.4508 -1.3741 -0.0843 0.0000	</row2>
+					<row3>	-0.2696 0.4636 8.1287 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CM087_Anchor_down_INDEX_1	</identifier>
+				<transform>
+					<row0>	-1.1944 -1.1955 -1.0696 0.0000	</row0>
+					<row1>	0.6845 0.8263 -1.6878 0.0000	</row1>
+					<row2>	1.4508 -1.3741 -0.0843 0.0000	</row2>
+					<row3>	0.2696 0.4636 8.1287 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM025_Fairled	</identifier>
+				<transform>
+					<row0>	0.0748 0.0000 -0.6096 0.0000	</row0>
+					<row1>	0.0000 0.6141 0.0000 0.0000	</row1>
+					<row2>	0.6096 0.0000 0.0748 0.0000	</row2>
+					<row3>	0.6199 0.6544 7.0568 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM025_Fairled_INDEX_1	</identifier>
+				<transform>
+					<row0>	0.0748 0.0000 0.6096 0.0000	</row0>
+					<row1>	0.0000 0.6141 0.0000 0.0000	</row1>
+					<row2>	-0.6096 0.0000 0.0748 0.0000	</row2>
+					<row3>	-0.6226 0.6544 7.0568 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM092_Running_Lights_R	</identifier>
 				<transform>
 					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
 					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
 					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	-0.003939 0.657786 7.354816 1.000000	</row3>
+					<row3>	0.677874 0.969654 7.177009 1.000000	</row3>
 				</transform>
 			</node>
 			<node>
@@ -304,57 +340,30 @@
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_CTA0091	</identifier>
+				<identifier>	MP_JM099_Signal_Lamp_1	</identifier>
 				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.023465 0.779350 6.484705 1.000000	</row3>
+					<row0>	0.0000 0.0000 1.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	-1.0000 0.0000 0.0000 0.0000	</row2>
+					<row3>	-0.7337 0.9729 6.4963 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_CTA0094	</identifier>
+				<identifier>	MP_JM099_Signal_Lamp_1_INDEX_1	</identifier>
 				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.015478 0.768173 6.531445 1.000000	</row3>
+					<row0>	0.0000 0.0000 -1.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	1.0000 0.0000 0.0000 0.0000	</row2>
+					<row3>	0.6784 0.9716 7.3436 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_JTA0256	</identifier>
+				<identifier>	MP_JM099_Signal_Lamp_1_INDEX_2	</identifier>
 				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	-0.001358 0.654404 7.056794 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_JTA0258	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	-0.000735 0.659778 6.822281 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_JTA0259	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.224046 0.972011 6.778770 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_JM092_Running_Lights_R	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.677874 0.969654 7.177009 1.000000	</row3>
+					<row0>	0.0000 0.0000 -1.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	1.0000 0.0000 0.0000 0.0000	</row2>
+					<row3>	0.7274 0.9716 6.4963 1.0000	</row3>
 				</transform>
 			</node>
 			<node>

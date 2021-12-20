@@ -430,228 +430,291 @@
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_JTA0272	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	-0.000741 0.472830 -7.151976 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_JTA0279	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	-1.091132 0.821407 -4.180249 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_JTA0281	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.009746 0.972238 -5.353974 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_JTA0273	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.002017 0.417575 -8.205684 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_JTA0277	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	-0.000065 0.633937 -7.457128 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_CTA0098	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	-0.000911 0.526044 -7.304474 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_JTA0276	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.001433 0.415226 -7.942085 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_JM104_Runway_Lights_2R	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	-0.882110 0.938169 -4.911855 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_CM032_Propeller3_R	</identifier>
-				<transform>
-					<row0>	1.341000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.341000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.341000 0.000000	</row2>
-					<row3>	0.460241 -0.468820 -5.565656 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_JTA0274	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	-0.305126 0.877125 -4.671774 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_CTA0096	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.003077 0.511903 -6.642361 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_CM032_Propeller3_R_INDEX_1	</identifier>
-				<transform>
-					<row0>	1.341000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.341000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.341000 0.000000	</row2>
-					<row3>	0.227022 -0.487180 -6.370241 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_JTA0278	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	-0.153535 0.703950 -6.656400 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_JM049_Davit_2	</identifier>
-				<transform>
-					<row0>	0.174947 0.003570 0.984571 0.000000	</row0>
-					<row1>	0.272343 0.960801 -0.051876 0.000000	</row1>
-					<row2>	-0.946162 0.277216 0.167117 0.000000	</row2>
-					<row3>	0.531312 0.305535 -7.660538 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_CM001_Propeller3_L	</identifier>
-				<transform>
-					<row0>	1.340895 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.340895 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.340895 0.000000	</row2>
-					<row3>	-0.457675 -0.469067 -5.568611 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_JM103_Runway_Lights_2L	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.912906 0.938143 -4.911888 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_JM102_Runway_Lights_1R	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	-0.779424 0.965046 -5.617320 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_JM101_Runway_Lights_1L	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.844219 0.965061 -5.617305 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_JM080_Elevating_Mast_L	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	1.109374 0.820279 -4.240813 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_CTA0095	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	-0.004008 0.402690 -7.857292 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_CM001_Propeller3_L_INDEX_1	</identifier>
-				<transform>
-					<row0>	1.340895 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.340895 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.340895 0.000000	</row2>
-					<row3>	-0.221577 -0.486011 -6.371043 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_JM096_Davit_3	</identifier>
-				<transform>
-					<row0>	0.206110 0.025751 -0.978190 0.000000	</row0>
-					<row1>	-0.334385 0.941329 -0.045676 0.000000	</row1>
-					<row2>	0.919622 0.336506 0.202628 0.000000	</row2>
-					<row3>	-0.553703 0.309292 -7.636727 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_JM075_Crane_2	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.858157 0.986962 -5.364499 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_JTA0275	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.003566 0.416529 -8.051078 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
 				<identifier>	HP_Ship_death_3	</identifier>
 				<transform>
 					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
 					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
 					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
 					<row3>	0.000000 0.000000 -3.003695 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CM001_Propeller3_L	</identifier>
+				<transform>
+					<row0>	1.3409 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.3409 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.3409 0.0000	</row2>
+					<row3>	-0.4577 -0.4691 -5.5686 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CM001_Propeller3_L_INDEX_1	</identifier>
+				<transform>
+					<row0>	1.3409 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.3409 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.3409 0.0000	</row2>
+					<row3>	-0.2216 -0.4860 -6.3710 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CM005_Anchor_1	</identifier>
+				<transform>
+					<row0>	0.4529 0.0000 -1.6904 0.0000	</row0>
+					<row1>	-0.4375 1.6904 -0.1172 0.0000	</row1>
+					<row2>	1.6328 0.4529 0.4375 0.0000	</row2>
+					<row3>	-0.5450 0.4027 -7.8382 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CM005_Anchor_1_INDEX_1	</identifier>
+				<transform>
+					<row0>	0.4529 0.0000 1.6904 0.0000	</row0>
+					<row1>	0.4375 1.6904 -0.1172 0.0000	</row1>
+					<row2>	-1.6328 0.4529 0.4375 0.0000	</row2>
+					<row3>	0.5370 0.4027 -7.8763 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CM009_Life_Buoy_2	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	-0.6738 0.5119 -6.6424 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CM009_Life_Buoy_2_INDEX_1	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.6799 0.5119 -6.6424 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CM032_Propeller3_R	</identifier>
+				<transform>
+					<row0>	1.3410 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.3410 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.3410 0.0000	</row2>
+					<row3>	0.4602 -0.4688 -5.5657 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CM032_Propeller3_R_INDEX_1	</identifier>
+				<transform>
+					<row0>	1.3410 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.3410 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.3410 0.0000	</row2>
+					<row3>	0.2270 -0.4872 -6.3702 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM007_Life_Buoy_box	</identifier>
+				<transform>
+					<row0>	0.3278 0.0000 0.9448 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	-0.9448 0.0000 0.3278 0.0000	</row2>
+					<row3>	0.4989 0.4152 -7.9429 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM007_Life_Buoy_box_INDEX_1	</identifier>
+				<transform>
+					<row0>	0.3245 0.0000 -0.9459 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.9459 0.0000 0.3245 0.0000	</row2>
+					<row3>	-0.4961 0.4152 -7.9413 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM075_Crane_2	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.8582 0.9870 -5.3645 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM076_Elevating_Mast_R	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	-1.1241 0.8214 -3.1046 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM076_Elevating_Mast_R_INDEX_1	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	-1.0582 0.8214 -5.2559 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM080_Elevating_Mast_L	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	1.1094 0.8203 -4.2408 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM099_Signal_Lamp_1	</identifier>
+				<transform>
+					<row0>	0.0000 0.0000 1.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	-1.0000 0.0000 0.0000 0.0000	</row2>
+					<row3>	-0.9779 0.9729 -6.1875 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM099_Signal_Lamp_1_INDEX_1	</identifier>
+				<transform>
+					<row0>	0.0000 0.0000 -1.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	1.0000 0.0000 0.0000 0.0000	</row2>
+					<row3>	1.0303 0.9716 -4.5476 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM099_Signal_Lamp_1_INDEX_2	</identifier>
+				<transform>
+					<row0>	0.0000 0.0000 1.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	-1.0000 0.0000 0.0000 0.0000	</row2>
+					<row3>	-0.9897 0.9729 -5.4096 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM099_Signal_Lamp_1_INDEX_3	</identifier>
+				<transform>
+					<row0>	0.0000 0.0000 1.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	-1.0000 0.0000 0.0000 0.0000	</row2>
+					<row3>	-0.9533 0.9729 -7.0599 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM099_Signal_Lamp_1_INDEX_4	</identifier>
+				<transform>
+					<row0>	0.0000 0.0000 -1.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	1.0000 0.0000 0.0000 0.0000	</row2>
+					<row3>	1.0615 0.9716 -3.5653 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM099_Signal_Lamp_1_INDEX_5	</identifier>
+				<transform>
+					<row0>	0.0000 0.0000 -1.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	1.0000 0.0000 0.0000 0.0000	</row2>
+					<row3>	0.9534 0.9716 -7.0599 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM099_Signal_Lamp_1_INDEX_6	</identifier>
+				<transform>
+					<row0>	0.0000 0.0000 1.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	-1.0000 0.0000 0.0000 0.0000	</row2>
+					<row3>	-1.0142 0.9729 -3.5653 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM099_Signal_Lamp_1_INDEX_7	</identifier>
+				<transform>
+					<row0>	0.0000 0.0000 1.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	-1.0000 0.0000 0.0000 0.0000	</row2>
+					<row3>	-0.9991 0.9729 -4.5476 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM099_Signal_Lamp_1_INDEX_8	</identifier>
+				<transform>
+					<row0>	0.0000 0.0000 -1.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	1.0000 0.0000 0.0000 0.0000	</row2>
+					<row3>	1.0049 0.9716 -5.4096 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM099_Signal_Lamp_1_INDEX_9	</identifier>
+				<transform>
+					<row0>	0.0000 0.0000 -1.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	1.0000 0.0000 0.0000 0.0000	</row2>
+					<row3>	0.9816 0.9716 -6.1875 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM100_Bench	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	1.0867 0.8897 -3.0686 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM100_Bench_INDEX_1	</identifier>
+				<transform>
+					<row0>	0.9994 0.0000 0.0356 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	-0.0356 0.0000 0.9994 0.0000	</row2>
+					<row3>	-0.9717 0.8972 -6.7512 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM100_Bench_INDEX_2	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	-1.0305 0.8444 -4.1955 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM101_Runway_Lights_1L	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.8442 0.9651 -5.6173 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM102_Runway_Lights_1R	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	-0.7794 0.9650 -5.6173 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM103_Runway_Lights_2L	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.9129 0.9381 -4.9119 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM104_Runway_Lights_2R	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	-0.8821 0.9382 -4.9119 1.0000	</row3>
 				</transform>
 			</node>
 		</node>
