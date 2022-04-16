@@ -1,7 +1,7 @@
 <JAF709_Kawanishi_N1K2_skinned.mfm>
 	<materialKind>	0	</materialKind>
 	<collisionFlags>	0	</collisionFlags>
-	<fx>	shaders/std_effects/PBS_skinned_emissive.fx	</fx>
+	<fx>	shaders/std_effects/PBS_ship_emissive_skinned.fx	</fx>
 	<property>	diffuseMap
 		<Texture>	PnFMods/SEA_UAN_Shokaku/JSA108_Shokaku/aircraft/JAF709_Kawanishi_N1K2_a.dds	</Texture>
 	</property>
